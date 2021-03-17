@@ -1,3 +1,3 @@
 
 def lambda_handler(event, context):
-    print('version x1.2')
+    print('version x1.3')
